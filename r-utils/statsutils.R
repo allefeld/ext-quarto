@@ -1,5 +1,8 @@
-# utilities to compute and display statistics
-# CA 2024-10-20
+#' Utilities to compute and display statistics
+#'
+#' @version 0.0.0
+#' @date 2024-10-21
+#' @author Carsten Allefeld
 
 # nolint start: object_usage_linter, object_name_linter.
 
